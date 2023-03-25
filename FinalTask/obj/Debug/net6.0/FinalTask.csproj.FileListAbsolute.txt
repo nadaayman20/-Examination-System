@@ -1,0 +1,75 @@
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\Users\MiDo\Desktop\FinalTask\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\Users\MiDo\Desktop\Examination System Update\ExaminationSystem-ITI\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\Users\Nada Ayman\Downloads\ExaminationSystem-ITI-main\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
+E:\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.exe
+E:\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+E:\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+E:\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.dll
+E:\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.dll
+E:\Examination_System\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+E:\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.exe
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.dll
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.dll
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Examination_System\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll

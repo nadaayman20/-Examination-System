@@ -1,0 +1,147 @@
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+Bats are blind,2.5,TrueFalse, - True - False, - False
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+I don't really like _____ milk. I only like _____ milk that you buy.,5,Multiple, - the - the - –, - the - –
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Bats are blind,2.5,TrueFalse, - True - False, - False
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny

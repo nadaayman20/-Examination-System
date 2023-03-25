@@ -1,0 +1,10 @@
+Identify the capital city of Ecuador,2.5,ChooseOne, - Bogotá - Tegucigalpa - Quito - Asunción, - Quito
+The blue whale is the biggest animal to have ever lived,2.5,TrueFalse, - True - False, - True
+Bats are blind,2.5,TrueFalse, - True - False, - False
+What is name of the young rabbit?,2.5,ChooseOne, - Buck - Doe - Bunny - Cottontail, - Bunny
+Identify the capital city of Portugal,2.5,ChooseOne, - Rome - Lisbon - Paris - Madrid, - Lisbon
+I _____ alcohol, but today I _____ my birthday.,5,Multiple, - 'm not often drinking - 'm celebrating - celebrate - don't often drink, - don't often drink - 'm celebrating
+Pigs roll in the mud because they don’t like being clean,2.5,TrueFalse, - True - False, - False
+Sea otters have a favorite rock they use to break open food,2.5,TrueFalse, - True - False, - True
+Identify the capital city of Vietnam,2.5,ChooseOne, - Vientián - Phnom Penh - Bangkok - Hanói, - Hanói
+Identify the capital city of Egypt,2.5,ChooseOne, - Beni-suef - Alexandria - Cairo - Aswan, - Cairo

@@ -1,0 +1,15 @@
+E:\Examination_System\FinalTask\bin\Debug\net6.0\Examination_System.exe
+E:\Examination_System\FinalTask\bin\Debug\net6.0\Examination_System.deps.json
+E:\Examination_System\FinalTask\bin\Debug\net6.0\Examination_System.runtimeconfig.json
+E:\Examination_System\FinalTask\bin\Debug\net6.0\Examination_System.dll
+E:\Examination_System\FinalTask\bin\Debug\net6.0\Examination_System.pdb
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.csproj.AssemblyReference.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.AssemblyInfoInputs.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.AssemblyInfo.cs
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.csproj.CoreCompileInputs.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.dll
+E:\Examination_System\FinalTask\obj\Debug\net6.0\refint\Examination_System.dll
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.pdb
+E:\Examination_System\FinalTask\obj\Debug\net6.0\Examination_System.genruntimeconfig.cache
+E:\Examination_System\FinalTask\obj\Debug\net6.0\ref\Examination_System.dll
